@@ -1,0 +1,7 @@
+{
+  "name": "Xinhui Tangerine Peel Traceability System",
+  "description": "A high-end 'New Chinese' style traceability platform for Xinhui Chenpi, featuring life-cycle tracking, anti-counterfeit verification, and batch management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
